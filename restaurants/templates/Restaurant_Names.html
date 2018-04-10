@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block body %}
+	<div class="container">
+		{% block context %}
+		<ul>
+			{% for i in Names %}
+			<li>{{ i.name }}</li>
+			{% endfor %}
+		</ul>
+		{% endblock %}
+	</div>
+{% endblock %}

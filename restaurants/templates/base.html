@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Learning Django Application</title>
+</head>
+{% include "bootstrap.html" %}
+<body>
+	<div class="container">
+		<div class="row">
+			<div class="col">
+			<h1>Starting from the scratch</h1>
+			<h2>Hello {{ name }}, {{ status }}</h2>
+		</div>
+		<div class="col" align="right">
+			<h2>Login </h2>
+		</div>
+	</div>
+	<div class="container">
+		{% block body %}
+		{% endblock %}
+	</div>
+</body>
+</html>

@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"file",
+				"filename"
+			],
+			[
+				"has",
+				"hash_val"
+			],
+			[
+				"ke",
+				"key_value"
+			],
+			[
+				"ha",
+				"key_hash"
+			],
+			[
+				"key",
+				"key_hash"
+			],
+			[
+				"xml",
+				"xml_parse_content"
+			],
+			[
+				"fil",
+				"filter_3"
+			],
+			[
+				"s",
+				"stock_value"
+			],
+			[
+				"for",
+				"formated_data"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"req",
+				"request_url"
+			],
+			[
+				"sea",
+				"search_val"
+			],
+			[
+				"sae",
+				"search_val"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"gues",
+				"guess_game"
+			],
+			[
+				"inp",
+				"input_user"
+			],
+			[
+				"in",
+				"input_user"
+			],
+			[
+				"rea",
+				"read"
+			],
+			[
+				"cop",
+				"copy_file"
+			],
+			[
+				"write",
+				"writeFile"
+			],
+			[
+				"back",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 679.0,
+		"history":
+		[
+			"sys.version",
+			"import sys",
+			"import random",
+			"file = open(\"Solved_probs.txt\",\"r\")",
+			"close()",
+			"cls",
+			"clear",
+			"read_files.py",
+			"read_Files.py"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Python/Learning_App/Learning"
+	],
+	"file_history":
+	[
+		"/D/Python/Python_programs/ForMedtronic/some_excel.py",
+		"/D/Python/BeautifulSoup/steal_from_bitelite.html",
+		"/D/Portal/2_22_2018/portal/portal/portal/settings/test_settings.py",
+		"/D/Portal/2_22_2018/portal/portal/file_upload/tests/tests.py",
+		"/D/Portal/2_22_2018/portal/portal/file_upload/zip_handler.py",
+		"/D/Portal/2_22_2018/portal/portal/file_upload/file_and_folder_management.py",
+		"/D/Python/Python_programs/Javascript/learning.html",
+		"/D/Python/Python_programs/Javascript/code.html",
+		"/D/Python/Python_programs/ForMedtronic/template_change.py",
+		"/D/Python/Python_programs/Docs/some Modules in python.txt",
+		"/D/Python/Python_programs/Docs/MySQL some poins.txt",
+		"/D/Python/Python_programs/hash_map.py",
+		"/D/Python/Python_programs/Docs/Some Python Points",
+		"/D/Python/Python_programs/all_list_operations.py",
+		"/D/Python/Python_programs/Docs/copy_from_sample_test.txt",
+		"/D/Python/Python_programs/Key_points_Python.txt",
+		"/D/Python/Python_programs/modules_usage.py",
+		"/D/Python/Python_programs/xml_parser_codes/xquery_parser.py",
+		"/D/Python/Python_programs/xml_parser_codes/my_parser.py",
+		"/D/Python/Python_programs/xml_parser_codes/expand.xml",
+		"/D/Python/Python_programs/class_inherit.py",
+		"/D/Python/Python_programs/Some_QA.txt",
+		"/D/Python/Python_programs/turtle_module_usage.py",
+		"/D/Python/Python_programs/regex_Declare.py",
+		"/D/Python/Python_programs/read_files.py",
+		"/D/Python/Python_programs/re_module.py",
+		"/D/Python/Python_programs/python_files.txt",
+		"/D/Python/Python_programs/copy_from_sample_test.txt",
+		"/D/Python/Python_programs/about me.txt",
+		"/D/Python/Python_programs/Solved_probs.txt",
+		"/D/Portal/portal/portal/file_upload/urls.py",
+		"/D/Portal/portal/portal/portal/urls.py",
+		"/D/Portal/portal/portal/file_upload/tests/tests.py",
+		"/D/Python/Python_programs/sample_test.txt",
+		"/C/Users/DELL-PC/AppData/Roaming/Sublime Text 3/Packages/User/read_File.py",
+		"/D/Portal/portal/portal/file_upload/tasks.py",
+		"/D/Portal/portal/portal/file_upload/storage.py",
+		"/D/Portal/portal/portal/file_upload/portal.py",
+		"/D/Portal/portal/portal/file_upload/parse.py",
+		"/D/Portal/portal/portal/file_upload/xfm_parse.py",
+		"/D/Portal/portal/portal/portal/settings/local_settings.py",
+		"/D/Portal/portal/Makefile",
+		"/D/Portal/portal/portal/portal/settings/base_settings.py",
+		"/D/Portal/portal/portal/portal/settings/production_settings.py",
+		"/D/Portal/portal/requirements.txt",
+		"/D/Portal/portal-master/portal/file_upload/templates/file_upload/index.html",
+		"/D/Portal/portal-master/portal/file_upload/views.py",
+		"/D/Portal/portal-master/portal/file_upload/templates/file_upload/user_login.html",
+		"/D/Portal/portal-master/portal/file_upload/urls.py",
+		"/D/Portal/portal-master/portal/portal/settings/local_settings.py",
+		"/D/Portal/portal-master/portal/portal/urls.py",
+		"/D/Portal/portal-master/requirements.txt",
+		"/D/Portal/portal-master/portal/file_upload/apps.py",
+		"/D/Portal/portal-master/portal/file_upload/fileValidation.py",
+		"/D/Portal/portal-master/portal/file_upload/forms.py",
+		"/D/Angular_JS/Projects/server.js",
+		"/D/Angular_JS/Projects/App/Bootstrap/css/bootstrap.min.css",
+		"/D/Angular_JS/Projects/App/CSS/bootstrap.css",
+		"/C/Code/mvp/www/index.html",
+		"/C/Code/mvp/www/js/app.js",
+		"/D/OtherProject/Some Angular/CompleteApplication/js/new-age.min.js",
+		"/D/OtherProject/Some Angular/CompleteApplication/css/new-age.css",
+		"/D/OtherProject/Some Angular/CompleteApplication/scss/_masthead.scss",
+		"/D/OtherProject/Some Angular/CompleteApplication/css/new-age.min.css",
+		"/D/OtherProject/Some Angular/CompleteApplication/device-mockups/device-mockups.css",
+		"/D/OtherProject/Some Angular/CompleteApplication/index.html",
+		"/D/Angular JS/Practice_Basic_JS/JS/SeeApp.js",
+		"/D/Angular JS/Practice_Basic_JS/Practice_AJS.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 156.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 74.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LearningDjango.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

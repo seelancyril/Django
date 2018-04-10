@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block body %}
+	<div class="container">
+		{% block my_details %}
+			<ul>
+				{% for i in locations %}
+					{% if i.name == 'Subway' %}
+						<li><a href="restaurants/">{{ i.location }}</a></li>
+					{% else %}
+						<li>{{ i.location }}</li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		{% endblock %}
+	</div>
+{% endblock %}
