@@ -3,6 +3,11 @@
 	<div class="container">
 		{% block context %}
 		<ul>
+			{% for i in object_list %}
+			<li>{{ i.name }}</li>
+			{% endfor %}
+		</ul>
+		<ul>
 			{% for i in Names %}
 			<li>{{ i.name }}</li>
 			{% endfor %}

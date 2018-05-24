@@ -25,7 +25,7 @@ class RestaurantNames(TemplateView):
 		context['Names'] = RestaurantLocation.objects.all().values()
 		return context
 
-class RestaurantOne(ListView):
+class RestaurantListView(ListView):
 	"""display restaurant one by one based on the url inputs"""
 	template_name = "Restaurant_Names.html"
 	def get_queryset(self):
@@ -33,6 +33,8 @@ class RestaurantOne(ListView):
 		locations = RestaurantLocation.objects.filter(Q(name__icontains= avi))
 		print(locations)
 		return locations
+
+
 
 		
 		
